@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.click-me,
+.no-click-me {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.click-me {
+    background-color: black;
+    color: white;
+}
+
+.no-click-me {
+    background-color: yellow;
+    color: black;
+}
