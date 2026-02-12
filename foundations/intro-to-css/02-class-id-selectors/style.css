@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgb(255, 199, 199);
+}
+
+#paragraph-2 {
+    font-size: 36px;
+    font-family: serif;
+    color: rgb(8, 8, 252);
+}
+
+.paragraph-3 {
+    font-size: 24px;
+}
+
+#paragraph-4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(0, 255, 128);
+}
